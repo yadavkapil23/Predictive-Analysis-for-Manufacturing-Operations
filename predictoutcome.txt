@@ -1,0 +1,23 @@
+//SAMPLE DATA USED FOR PREDICTION
+
+
+
+{
+  "model_type": "logistic",
+  "ProductionVolume": 1200,
+  "ProductionCost": 50000,
+  "SupplierQuality": 8,
+  "DeliveryDelay": 1,
+  "DefectRate": 0.02,
+  "QualityScore": 95,
+  "MaintenanceHours": 120,
+  "DowntimePercentage": 10,
+  "InventoryTurnover": 5,
+  "StockoutRate": 0.1,
+  "WorkerProductivity": 90,
+  "SafetyIncidents": 1,
+  "EnergyConsumption": 1000,
+  "EnergyEfficiency": 0.85,
+  "AdditiveProcessTime": 5,
+  "AdditiveMaterialCost": 200
+}
